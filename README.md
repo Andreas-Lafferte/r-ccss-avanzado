@@ -2,7 +2,7 @@
 
 El presente repositorio tiene por objetivo almacenar los materiales vinculados al trabajo de *RStudio* para el curso "Análisis Avanzado de Datos Sociales usando R" impartido en **Estación Lastarria** durante los meses de mayo y junio de 2020.
 
-Para el manejo de esta carpeta se requiere un conocimiento básico de Gituhub. Clase a clase se irán actualizando los diversos elementos necesarios para el desarrollo de cada sesión (bases de datos y códigos de R principalmente(.
+Para el manejo de esta carpeta se requiere un conocimiento básico de Gituhub. Clase a clase se irán actualizando los diversos elementos necesarios para el desarrollo de cada sesión (bases de datos y códigos de R principalmente).
 
 En la medida que **Github presenta una capacidad limitada de almacenamiento en su versión gratuita**, los materiales de mayor peso (fundamentalmente bibliografía y diapositivas de clase) quedarán alojados en la siguiente [carpeta en línea](https://www.dropbox.com/sh/876kerwfhzbat08/AACGyGk_GNsHOooHazyFLSq9a?dl=0), vinculada a mi Dropbox.
 
