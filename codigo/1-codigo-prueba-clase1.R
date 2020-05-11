@@ -1,0 +1,12 @@
+
+# ANÁLISIS AVANZADO DE DATOS SOCIALES USANDO R
+# ESTACIÓN LASTARRIA - MAYO/JUNIO 2020
+# PROFESOR: FELIPE RUIZ
+
+
+# CARGAR BASE DE DATOS
+datos <- read.csv2("datos/paraguay.csv")
+
+# GUARDAR BASE DE DATOS EN FORMATO R
+
+saveRDS(datos, file = "datos/paraguay_rds.rds")
