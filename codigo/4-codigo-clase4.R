@@ -13,10 +13,9 @@ library(ggplot2) # Construcción de gráficos avanzados
 
 # ---- CARGAR BASE DE DATOS
 
-datos <- read_sav("datos/4-PNUD_2015.sav")
+# datos <- read_sav("datos/4-PNUD_2015.sav") no lo usaremos pues en proyecto hay base en formato RDS
 
-dim(PNUD)
-View(PNUD)
+datos <- readRDS("datos/4-PNUD_2015.rds")
 
 # Seleccionar variables de interés
 PNUD <- select(datos, cambios, conflictos, manifestaciones, involucramiento, edad, NSE)
