@@ -1,0 +1,110 @@
+<table class="texreg" style="margin: 10px auto;border-collapse: collapse;border-spacing: 0px;caption-side: bottom;color: #000000;border-top: 2px solid #000000;">
+<caption>Statistical models</caption>
+<thead>
+<tr>
+<th style="padding-left: 5px;padding-right: 5px;">&nbsp;</th>
+<th style="padding-left: 5px;padding-right: 5px;">Modelo 1</th>
+<th style="padding-left: 5px;padding-right: 5px;">Modelo 2</th>
+<th style="padding-left: 5px;padding-right: 5px;">Modelo 3</th>
+<th style="padding-left: 5px;padding-right: 5px;">Modelo 4</th>
+</tr>
+</thead>
+<tbody>
+<tr style="border-top: 1px solid #000000;">
+<td style="padding-left: 5px;padding-right: 5px;">Constante</td>
+<td style="padding-left: 5px;padding-right: 5px;">-450842.65<sup>***</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">-900904.61<sup>***</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">-1008809.20<sup>***</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">-1051770.61<sup>***</sup></td>
+</tr>
+<tr>
+<td style="padding-left: 5px;padding-right: 5px;">&nbsp;</td>
+<td style="padding-left: 5px;padding-right: 5px;">(16047.50)</td>
+<td style="padding-left: 5px;padding-right: 5px;">(28732.28)</td>
+<td style="padding-left: 5px;padding-right: 5px;">(28735.27)</td>
+<td style="padding-left: 5px;padding-right: 5px;">(29112.04)</td>
+</tr>
+<tr>
+<td style="padding-left: 5px;padding-right: 5px;">Escolaridad</td>
+<td style="padding-left: 5px;padding-right: 5px;">88573.59<sup>***</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">95819.57<sup>***</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">80617.49<sup>***</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">78538.59<sup>***</sup></td>
+</tr>
+<tr>
+<td style="padding-left: 5px;padding-right: 5px;">&nbsp;</td>
+<td style="padding-left: 5px;padding-right: 5px;">(1239.05)</td>
+<td style="padding-left: 5px;padding-right: 5px;">(1287.42)</td>
+<td style="padding-left: 5px;padding-right: 5px;">(1428.89)</td>
+<td style="padding-left: 5px;padding-right: 5px;">(1446.51)</td>
+</tr>
+<tr>
+<td style="padding-left: 5px;padding-right: 5px;">Edad</td>
+<td style="padding-left: 5px;padding-right: 5px;">&nbsp;</td>
+<td style="padding-left: 5px;padding-right: 5px;">7875.89<sup>***</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">9734.57<sup>***</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">10393.38<sup>***</sup></td>
+</tr>
+<tr>
+<td style="padding-left: 5px;padding-right: 5px;">&nbsp;</td>
+<td style="padding-left: 5px;padding-right: 5px;">&nbsp;</td>
+<td style="padding-left: 5px;padding-right: 5px;">(418.68)</td>
+<td style="padding-left: 5px;padding-right: 5px;">(420.89)</td>
+<td style="padding-left: 5px;padding-right: 5px;">(427.00)</td>
+</tr>
+<tr>
+<td style="padding-left: 5px;padding-right: 5px;">Educación padre</td>
+<td style="padding-left: 5px;padding-right: 5px;">&nbsp;</td>
+<td style="padding-left: 5px;padding-right: 5px;">&nbsp;</td>
+<td style="padding-left: 5px;padding-right: 5px;">54872.67<sup>***</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">38309.31<sup>***</sup></td>
+</tr>
+<tr>
+<td style="padding-left: 5px;padding-right: 5px;">&nbsp;</td>
+<td style="padding-left: 5px;padding-right: 5px;">&nbsp;</td>
+<td style="padding-left: 5px;padding-right: 5px;">&nbsp;</td>
+<td style="padding-left: 5px;padding-right: 5px;">(2359.10)</td>
+<td style="padding-left: 5px;padding-right: 5px;">(3037.59)</td>
+</tr>
+<tr>
+<td style="padding-left: 5px;padding-right: 5px;">Educación madre</td>
+<td style="padding-left: 5px;padding-right: 5px;">&nbsp;</td>
+<td style="padding-left: 5px;padding-right: 5px;">&nbsp;</td>
+<td style="padding-left: 5px;padding-right: 5px;">&nbsp;</td>
+<td style="padding-left: 5px;padding-right: 5px;">28169.75<sup>***</sup></td>
+</tr>
+<tr>
+<td style="padding-left: 5px;padding-right: 5px;">&nbsp;</td>
+<td style="padding-left: 5px;padding-right: 5px;">&nbsp;</td>
+<td style="padding-left: 5px;padding-right: 5px;">&nbsp;</td>
+<td style="padding-left: 5px;padding-right: 5px;">&nbsp;</td>
+<td style="padding-left: 5px;padding-right: 5px;">(3263.29)</td>
+</tr>
+<tr style="border-top: 1px solid #000000;">
+<td style="padding-left: 5px;padding-right: 5px;">R<sup>2</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">0.20</td>
+<td style="padding-left: 5px;padding-right: 5px;">0.21</td>
+<td style="padding-left: 5px;padding-right: 5px;">0.23</td>
+<td style="padding-left: 5px;padding-right: 5px;">0.24</td>
+</tr>
+<tr>
+<td style="padding-left: 5px;padding-right: 5px;">Adj. R<sup>2</sup></td>
+<td style="padding-left: 5px;padding-right: 5px;">0.20</td>
+<td style="padding-left: 5px;padding-right: 5px;">0.21</td>
+<td style="padding-left: 5px;padding-right: 5px;">0.23</td>
+<td style="padding-left: 5px;padding-right: 5px;">0.24</td>
+</tr>
+<tr style="border-bottom: 2px solid #000000;">
+<td style="padding-left: 5px;padding-right: 5px;">Num. obs.</td>
+<td style="padding-left: 5px;padding-right: 5px;">20345</td>
+<td style="padding-left: 5px;padding-right: 5px;">20345</td>
+<td style="padding-left: 5px;padding-right: 5px;">20345</td>
+<td style="padding-left: 5px;padding-right: 5px;">20345</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td style="font-size: 0.8em;" colspan="5"><sup>***</sup>p &lt; 0.001; <sup>**</sup>p &lt; 0.01; <sup>*</sup>p &lt; 0.05</td>
+</tr>
+</tfoot>
+</table>
